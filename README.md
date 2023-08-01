@@ -1,5 +1,7 @@
 # Sway configuration
 
+![alt tag](https://raw.githubusercontent.com/acerv/sway_config/main/openSUSE.jpg)
+
 # Installation
 
 Install dependences first:
