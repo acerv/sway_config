@@ -8,6 +8,7 @@ Install dependences first:
 ```
 sudo zypper in \
     sway \
+    swaybg \
     SwayNotificationCenter \
     swaylock \
     swayidle \
