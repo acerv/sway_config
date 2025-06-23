@@ -16,7 +16,12 @@ $ sudo zypper in \
     waybar \
     kitty \
     grim \
-    wl-clipboard
+    gdu \
+    htop \
+    s-tui \
+    nmtui \
+    pavucontrol \
+    brightnessctl
 ```
 
 Then copy configurations:
