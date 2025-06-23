@@ -1,12 +1,13 @@
 # Sway configuration
 
-![alt tag](https://raw.githubusercontent.com/acerv/sway_config/main/openSUSE.jpg)
+![alt tag](https://raw.githubusercontent.com/acerv/sway_config/main/openSUSE.png)
 
-# Installation
+## Installation
 
 Install dependences first:
-```
-sudo zypper in \
+
+```shell
+$ sudo zypper in \
     sway \
     swaybg \
     SwayNotificationCenter \
@@ -19,11 +20,11 @@ sudo zypper in \
 ```
 
 Then copy configurations:
-```
-cp -r \
+
+```shell
+$ cp -r \
     sway \
     waybar \
     kitty \
     wofi ~/.config
 ```
-
