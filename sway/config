@@ -7,8 +7,8 @@ set $up k
 set $right l
 set $term kitty
 set $fonts "pango:JetBrainsMonoNLNerdFont Regular 12"
-set $menu wofi --show drun,run
 #set $menu dmenu_run -nb "#1F1F28" -nf "#C8C093" -sb "#223249" -sf "#DCD7BA" -fn $fonts
+set $menu fuzzel
 
 font $fonts
 
