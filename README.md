@@ -21,7 +21,8 @@ $ sudo zypper in \
     s-tui \
     nmtui \
     pavucontrol \
-    brightnessctl
+    brightnessctl \
+    fuzzel
 ```
 
 Then copy configurations:
@@ -31,5 +32,5 @@ $ cp -r \
     sway \
     waybar \
     kitty \
-    wofi ~/.config
+    fuzzel ~/.config
 ```
