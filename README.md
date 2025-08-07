@@ -14,7 +14,7 @@ $ sudo zypper in \
     swaylock \
     swayidle \
     waybar \
-    kitty \
+    foot \
     grim \
     gdu \
     htop \
@@ -32,5 +32,6 @@ $ cp -r \
     sway \
     waybar \
     kitty \
-    fuzzel ~/.config
+    fuzzel \
+    foot ~/.config
 ```
